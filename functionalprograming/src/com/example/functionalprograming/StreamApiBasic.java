@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class PF1 {
+public class StreamApiBasic {
 
 	public static void main(String[] args) {
 
@@ -42,7 +42,7 @@ public class PF1 {
 		System.out.println(number);
 	}
 	private static void printNumberSecondTypeFP(List<Integer> list) {
-		list.stream().forEach(PF1::printing);
+		list.stream().forEach(StreamApiBasic::printing);
 	}
 
 	private static void printCourseWhishHaveSpring(List<String> cources) {

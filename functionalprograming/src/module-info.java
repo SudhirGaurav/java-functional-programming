@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sudgaura
- *
- */
-module functionalprograming {
-}
