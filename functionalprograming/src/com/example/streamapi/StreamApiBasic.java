@@ -1,4 +1,4 @@
-package com.example.functionalprograming;
+package com.example.streamapi;
 
 import java.util.ArrayList;
 import java.util.Arrays;
